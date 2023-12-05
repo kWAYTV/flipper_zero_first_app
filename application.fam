@@ -9,5 +9,5 @@ App(
     stack_size=2 * 1024,
     fap_category="Misc",
     fap_icon="images/basic_demo.png",
-    fap_weburl="https://github.com/kWAYTV/flipper_zero_basic_app",
+    fap_weburl="https://github.com/kWAYTV/flipper_zero_first_app",
 )
